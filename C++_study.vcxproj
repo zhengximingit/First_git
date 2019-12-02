@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="git_test.cpp" />
     <ClCompile Include="Human.cpp" />
     <ClCompile Include="test1.cpp" />
     <ClCompile Include="Test_overloading.cpp" />

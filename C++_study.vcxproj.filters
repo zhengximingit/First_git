@@ -24,6 +24,9 @@
     <ClCompile Include="Test_overloading.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="git_test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Human.h">
